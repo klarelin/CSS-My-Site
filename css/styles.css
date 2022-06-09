@@ -49,13 +49,15 @@ a {
 
 .topCloud {
   position: absolute;
+  height: 15%;
   right: 600px;
   top: 50px;
 }
 
 .bottomCloud {
   position: absolute;
-  left: 600px;
+  height: 15%;
+  left: 570px;
   bottom: 250px;
 }
 
