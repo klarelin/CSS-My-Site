@@ -8,7 +8,6 @@ h1 {
   font-size: 3.50rem;
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
-  line-height: 2;
   color: #F47C7C;
 
 }
@@ -22,11 +21,11 @@ h2 {
 
 h3 {
   font-family: 'Montserrat', sans-serif;
-  color: #8CC0DE;
+  color: #069A8E;
 }
 
 a {
-  color: #8CC0DE;
+  color: #069A8E;
 }
 .topContainer {
   background-color: #FFE6E6;
@@ -38,6 +37,12 @@ a {
 
 .bottomContainer {}
 
+.skill-row {
+  width: 50%;
+  margin: 100px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+}
 .pro {
   text-decoration: underline;
 }
@@ -68,4 +73,16 @@ a {
   position: static;
   left: 1300px;
   top: 1010px;
+}
+
+.circuit-board {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.programming {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
